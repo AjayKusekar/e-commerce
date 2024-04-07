@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;500;600;700;800;900&display=swap");
+
+button, input{
+    height: 30px;
+}
+input{
+    width: 90px;
+}
+button{
+    width: 20px;
+    border: 2px solid rgb(109, 101, 101);
+}
+
